@@ -1,0 +1,1 @@
+Clicking on employee names adds dashes ('-') in between all of the letters.
